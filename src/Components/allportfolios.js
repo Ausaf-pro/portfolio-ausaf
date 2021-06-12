@@ -11,7 +11,7 @@ const portfolios = [
   {
     id: 1,
     category: "React Netflix Challange",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
@@ -21,7 +21,7 @@ const portfolios = [
   {
     id: 2,
     category: "React Web Application🚀",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
@@ -31,7 +31,7 @@ const portfolios = [
   {
     id: 3,
     category: "React Web Application🚀",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
@@ -42,7 +42,7 @@ const portfolios = [
   {
     id: 4,
     category: "React and Firebase🔥",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
@@ -52,7 +52,7 @@ const portfolios = [
   {
     id: 5,
     category: "HTML CSS",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
@@ -62,7 +62,7 @@ const portfolios = [
   {
     id: 6,
     category: "React Js",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
@@ -72,7 +72,7 @@ const portfolios = [
   {
     id: 7,
     category: "Web Development",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
@@ -82,7 +82,7 @@ const portfolios = [
   {
     id: 8,
     category: "Freelancing",
-    link1: "www.youtube.com",
+    link1: "https://github.com/Ausaf-pro",
     link2: "www.github.com",
     icon1: "GitHub",
     icon2: "Y",
