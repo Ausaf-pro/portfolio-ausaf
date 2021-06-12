@@ -1,5 +1,6 @@
 import React from "react";
 import avatar from "../img/avatar.jpeg";
+import CopyrightIcon from "@material-ui/icons/Copyright";
 import { NavLink } from "react-router-dom";
 
 function NavBar() {
@@ -38,7 +39,9 @@ function NavBar() {
           </li>
         </ul>
         <footer className="footer">
-          <p>@2021 Ausaf Hussain</p>
+          <p>
+            <CopyrightIcon className="copyrightIcon" /> 2021 Ausaf Hussain
+          </p>
         </footer>
       </nav>
     </div>

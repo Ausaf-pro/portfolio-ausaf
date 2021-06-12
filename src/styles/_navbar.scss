@@ -11,7 +11,7 @@
       width: 100%;
       text-align: center;
       margin-top: 1rem;
-      border-bottom: 1px solid #2e344e;
+      // border-bottom: 1px solid #2e344e;
       img {
         width: 70%;
         border-radius: 100%;
@@ -40,7 +40,7 @@
             left: 0;
             width: 0.4rem;
             height: 100%;
-            background-color: #0381ff33;
+            background-color: #ffffff0c;
             transform-origin: bottom;
             transform: scale(0);
             overflow-x: hidden;
@@ -57,15 +57,18 @@
 
     .footer {
       width: 100%;
-      border-top: 1px solid #2e344e;
       p {
+        font-size: 1rem;
         text-align: center;
-        padding: 1rem 0;
+        padding: 1rem 1.5rem;
+        .copyrightIcon {
+          padding-top: 0.7rem;
+        }
       }
     }
   }
 }
 
 .active {
-  background-color: #037fff;
+  background: #037fff;
 }
